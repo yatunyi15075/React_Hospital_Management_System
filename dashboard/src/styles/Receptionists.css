@@ -1,0 +1,68 @@
+/* receptionists.css */
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+
+  .button-container {
+    margin-bottom: 20px; /* Adjust as needed */
+    text-align: right; /* Align button to the right */
+  }
+  
+  .add-button {
+    /* Add any additional styling for the button */
+  }
+  
+  .page-title {
+    text-align: center;
+    color: white;
+  }
+  
+  .button-container {
+    margin-bottom: 20px;
+    text-align: center; /* Align button to the center */
+  }
+  
+  .add-button {
+    color: white; /* Change button text color to white */
+    background-color: blue; /* Example background color */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-button:hover {
+    background-color: navy; /* Change button background color on hover */
+  }
+  
+

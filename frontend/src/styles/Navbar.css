@@ -1,0 +1,124 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #212121; /* Adjust color as needed */
+  max-width: 1200px; /* Set maximum width */
+  margin: 0 auto; /* Center the navbar */
+}
+
+.logo-img {
+  width: 120px; /* Adjust size as needed */
+}
+
+.navLinks {
+  display: flex;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  gap: 15px;
+}
+
+.links a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+.links a:hover {
+  color: #cccccc;
+}
+
+.buttons {
+  display: flex;
+  gap: 15px;
+}
+
+.btn {
+  padding: 8px 20px;
+  color: #ffffff;
+  background-color: #646cff; /* Adjust color as needed */
+  border-radius: 20px;
+  font-size: 14px; /* Adjust font size */
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #535bf2; /* Adjust hover color as needed */
+}
+
+
+
+
+
+
+
+
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #111; /* Change the background color as needed */
+  padding: 20px;
+}
+
+.logo {
+  flex: 1;
+}
+
+.logo-img {
+  width: 150px;
+}
+
+.navLinks {
+  flex: 2;
+}
+
+.links {
+  display: flex;
+}
+
+.link {
+  color: #fff; /* Set the color of navigation links to white */
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+  margin-right: 20px;
+}
+
+.buttons {
+  display: flex;
+}
+
+.btn {
+  border-radius: 8px;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.loginBtn {
+  background-color: #646cff; /* Change the login button color as needed */
+  color: #fff; /* Set the text color to white */
+}
+
+.registerBtn {
+  background-color: #9083d5; /* Change the register button color as needed */
+  color: #fff; /* Set the text color to white */
+}
+
+.logoutBtn {
+  background-color: #ff3d3d; /* Change the logout button color as needed */
+  color: #fff; /* Set the text color to white */
+}
