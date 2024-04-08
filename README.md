@@ -6,7 +6,7 @@ This is a MERN Stack Hospital Management System that has 3 main parts:
  - Backend
  - Dashboard
 
- <h3>Dashboard features: </h3>
+ Dashboard features:
  - Dashboard
  - Add Admin
  - Add Doctor
@@ -15,10 +15,10 @@ This is a MERN Stack Hospital Management System that has 3 main parts:
  - See all appointments
  - Manage appointments
 
-<h3>Backend features: </h3>
+Backend features:
  - Manages all frontend features
 
-<h3>Frontend features: </h3>
+Frontend features:
  - Book appointment
  - Send Message to admin
  - Login / Register
