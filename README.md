@@ -1,11 +1,12 @@
 ![Hospital Management System](https://github.com/yatunyi15075/React_Hospital_Management_System/blob/master/frontend/src/assets/4.png)
 
+<h2> YouTube Channel :: Coding With Brian </h2>
 This is a MERN Stack Hospital Management System that has 3 main parts: 
  - Frontend
  - Backend
  - Dashboard
 
-Frontend features:
+Dashboard features:
  - Dashboard
  - Add Admin
  - Add Doctor
@@ -13,3 +14,11 @@ Frontend features:
  - See all doctors
  - See all appointments
  - Manage appointments
+
+Backend features:
+ - Manages all frontend features
+
+Frontend features:
+ - Book appointment
+ - Send Message to admin
+ - Login / Register
